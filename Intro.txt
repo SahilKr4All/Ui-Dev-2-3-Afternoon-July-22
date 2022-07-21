@@ -1,0 +1,17 @@
+Web Designing
+HTML-Hyper Text Markup Language-It Defines structure of webpage
+CSS-Cascading Style Sheet -It beautifies the webpage
+JS-Javascript- IT provides functionality to webpage
+
+HTML - Skeleton
+CSS - appearance
+JS - functionality
+
+HTML - notepad
+
+TextEditor - vscode,webstorm,brackets,eclipse....
+
+HEadings - 
+h1 - largest
+h6 - smallest
+
